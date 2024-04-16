@@ -1,5 +1,5 @@
 import streamlit as st
-from factorial007 import fact
+from factorial import fact
 
 def main():
     st.title("Factorial Calculator")
